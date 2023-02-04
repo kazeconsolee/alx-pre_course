@@ -1,2 +1,4 @@
 #!/bi/bash 
 echo "ALX school is so cool!"
+update_script
+
